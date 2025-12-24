@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**markuskristi/markuskristi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 About Me  
+🎓 Computer Science student & Kood/Jõhvi graduate  
+💡 Aspiring software engineer, currently building my portfolio and learning more about AI  
+🧠 I enjoy learning by building, solving problems, and improving step by step  
 
-Here are some ideas to get you started:
+🛠 Tech Stack  
+- JavaScript, React  
+- Python  
+- HTML, CSS  
+- Golang  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goals for 2026  
+- Build meaningful projects  
+- Deepen my understanding of software engineering fundamentals  
+- Keep learning new technologies  
+
+📬 Reach Me  
+📧 kristimarkus@gmail.com
